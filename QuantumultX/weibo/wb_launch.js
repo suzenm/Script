@@ -1,5 +1,5 @@
 /*
-@supported 980E84C273A6
+@supported 980E84C273A6 4FE90649FD0F
  */
 
 const path1 = "/interface/sdk/sdkad.php";
