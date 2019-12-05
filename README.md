@@ -1,3 +1,3 @@
 # Script
-JavaScript for quantumult X
+JavaScript for quantumult X 
 add device ID already
