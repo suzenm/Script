@@ -1,3 +1,4 @@
 # > psn
 DOMAIN-SUFFIX,community.playstation.net,proxy
-USER-AGENT,hearthstone,direct
+USER-AGENT,hearthstone*,direct
+USER-AGENT,hearthstone**,direct
