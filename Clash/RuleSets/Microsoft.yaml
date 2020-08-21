@@ -1,4 +1,4 @@
-pay-laod:
+payload:
   # > Microsoft
   - DOMAIN-KEYWORD,onedrive
   - DOMAIN-SUFFIX,azure.com
