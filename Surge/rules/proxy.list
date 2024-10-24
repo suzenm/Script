@@ -6,3 +6,6 @@ DOMAIN-SUFFIX,dl.playstation.net
 DOMAIN-SUFFIX,nikevideo.nike.com
 DOMAIN-SUFFIX,static.nike.com
 DOMAIN-SUFFIX,accounts.nike.com
+
+# > plex
+DOMAIN-SUFFIX,plex.tv
