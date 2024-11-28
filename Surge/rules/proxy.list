@@ -9,3 +9,6 @@ DOMAIN-SUFFIX,accounts.nike.com
 
 # > plex
 DOMAIN-SUFFIX,plex.tv
+
+# > github
+DOMAIN-SUFFIX,raw.githubusercontent.com
